@@ -1,12 +1,22 @@
 # LitElement Internationalisation
 LitElement Internationalisation
 
-Install
+## Install
 ```sh
 npm install --save lit-element-i18n
 ```
 
-Usage
+## Resources  
+/assets/locales/en/app.json
+```json
+{ "hi": "Hi" }
+```
+/assets/locales/sv/app.json
+```json
+{ "hi": "Hej" }
+```
+
+## Usage
 ```js
 import { LitElement, html } from 'lit-element'
 import { i18nMixin, translate } from 'lit-element-i18n'

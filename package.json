@@ -1,6 +1,6 @@
 {
   "name": "lit-element-i18n",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "LitElement Internationalization.",
   "main": "lit-element-i18n.js",
   "scripts": {
