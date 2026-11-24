@@ -30,7 +30,7 @@
     "polymer-cli": "^1.9.6"
   },
   "dependencies": {
-    "i18next": "^13.1.4",
+    "i18next": "^26.3.4",
     "i18next-xhr-backend": "^1.5.1"
   }
 }
